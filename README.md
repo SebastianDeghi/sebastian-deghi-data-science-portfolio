@@ -1,10 +1,9 @@
-
 # 👨‍💻 Sebastián Deghi - Portfolio de Proyectos
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub followers](https://img.shields.io/github/followers/SebastianDeghi?label=Follow&style=social)](https://github.com/SebastianDeghi)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sebastian-deghi/)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=3Nq5hTIAAAAJ&hl=en)
+[![GitHub followers](https://img.shields.io/github/followers/SebastianDeghi?label=Follow&style=social)](https://github.com/SebastianDeghi)
 
 Bienvenido a mi portafolio de proyectos. Aquí encontrarás mi trabajo organizado por áreas.
 
