@@ -36,10 +36,7 @@ These projects emphasize **implementation, reproducibility, and engineering best
 
 | Project | Engineering Focus | Highlights | Link |
 |--------|------------------|------------|------|
-| 🔍 **Bitcoin Fraud Detection Pipeline** | End-to-end pipeline | Data preprocessing, cross-validation pipeline, reproducible experiments | [Repository](https://github.com/SebastianDeghi/proyect_ml_eng) |
 | 🎬 **NLP Training Pipelines** | Training workflows | Hyperparameter tuning, evaluation pipelines | [Repository](https://github.com/SebastianDeghi/proyect_ml_eng) |
-| 🤖 **LLM & Deep Learning Systems** | Multi-model experimentation | Zero-shot vs fine-tuning pipelines | [Repository](https://github.com/SebastianDeghi/proyect_ml_eng) |
-| 📈 **Time Series Forecasting System** | Prediction pipeline | ARIMA, Holt-Winters, model evaluation (RMSE, MAE) | [Repository](https://github.com/SebastianDeghi/proyect_ml_eng) |
 
 ---
 
